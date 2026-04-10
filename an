@@ -1,0 +1,53 @@
+[33mcommit 7fb72086cf9fffeec99629e64cdff6b8e5fa55c6[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: friedly <105841106722@student.unismuh.ac.id>
+Date:   Fri Apr 10 20:26:26 2026 +0700
+
+    first commit
+
+[33mcommit b7daa79bbf5f5fd6b0c31e87ea60e64e1be1ad85[m
+Author: Manusia Human <139601233+ilham1421@users.noreply.github.com>
+Date:   Wed Apr 8 12:32:55 2026 +0800
+
+    Delete .env
+
+[33mcommit 249e6d8b759badf96feb8a6c1319b1c5791964b0[m
+Author: ilham1421 <105841105822@student.unismuh.ac.id>
+Date:   Wed Apr 8 12:26:43 2026 +0800
+
+    selesai
+
+[33mcommit c8a001264830a82cfd52c23c7f286cb86b54a3e5[m
+Author: ilham1421 <105841105822@student.unismuh.ac.id>
+Date:   Tue Apr 7 15:50:37 2026 +0800
+
+    bug time
+
+[33mcommit 0f2d25fa9fefd5f768d21a858b9c523a36417aa8[m
+Author: ilham1421 <105841105822@student.unismuh.ac.id>
+Date:   Tue Apr 7 15:12:33 2026 +0800
+
+    fix: perbaiki jam reservasi - dynamic time slots, timezone fix, error handling
+
+[33mcommit 4d240f0f65a59ca4bdb8e49e9de959af4f2567de[m
+Author: ilham1421 <105841105822@student.unismuh.ac.id>
+Date:   Tue Apr 7 13:56:16 2026 +0800
+
+    fix: add prisma generate to build script
+
+[33mcommit fe76b7a7e5eaf69e2d39adc7e696c27f400deb6e[m
+Author: ilham1421 <105841105822@student.unismuh.ac.id>
+Date:   Tue Apr 7 13:23:24 2026 +0800
+
+    reservasi
+
+[33mcommit e4609cc23194b90f5f7bc0f96ed80b8ccb5f226b[m
+Author: ilham1421 <105841105822@student.unismuh.ac.id>
+Date:   Tue Apr 7 01:38:49 2026 +0800
+
+    optimasi & UI Handphone
+
+[33mcommit c5e89192bd772b9b9a36a8a1e52d45ad54b3a9a3[m
+Author: ilham1421 <105841105822@student.unismuh.ac.id>
+Date:   Tue Apr 7 01:01:08 2026 +0800
+
+    first commit
